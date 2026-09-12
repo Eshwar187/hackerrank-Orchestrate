@@ -3,3 +3,4 @@ __pycache__/
 *.pyc
 .env
 pyrun.bat
+chat_transcript.txt
